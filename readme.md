@@ -1,6 +1,7 @@
 # StaySphere
 
-![StaySphere](./public/icon/Screenshot 2025-04-13 134145.png)
+![StaySphere](./public/icon/Screenshot-2025-04-13-134145.png)
+
 
 StaySphere is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
