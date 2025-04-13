@@ -7,7 +7,7 @@ StaySphere is a travel platform that allows users to explore and share their fav
 
 ## Live Project
 
-Check out the live project: [StaySphere Live]()
+Check out the live project: [StaySphere Live](https://staysphere-zbby.onrender.com/listings)
 
 ## Technologies Used
 
