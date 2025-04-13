@@ -1,12 +1,12 @@
-# Wanderlust
+# StaySphere
 
-![Wanderlust](./public/icon/Screenshot%20-%20wanderlust.png)
+![StaySphere](./public/icon/Screenshot%20-%20wanderlust.png)
 
-Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
+StaySphere is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
 ## Live Project
 
-Check out the live project: [Wanderlust Live](https://wanderlust-hub.vercel.app/)
+Check out the live project: [StaySphere Live]()
 
 ## Technologies Used
 
@@ -36,12 +36,12 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Wanderlust.git
+   git clone https://github.com/your-username/StaySphere.git
 
 2. Install dependencies:
 
     ```bash
-    cd Wanderlust
+    cd StaySphere
     npm install
 
 3. Configure environment variables:
@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
     ```bash
     npm start
 
-  Visit http://localhost:3000 in your browser to explore Wanderlust locally.
+  Visit http://localhost:8080 in your browser to explore StaySphere locally.
 
 ## Contribution
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
